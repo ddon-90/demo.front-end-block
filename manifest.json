@@ -1,7 +1,7 @@
 {
   "vendor": "demoeu",
   "name": "front-end-block",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "VTEX IO App Example",
   "description": "Reference app for VTEX IO",
   "builders": {
