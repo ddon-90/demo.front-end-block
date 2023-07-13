@@ -1,0 +1,6 @@
+{
+  "admin/editor.title": "Demo Block",
+  "admin/editor.description": "This is a demo block",
+  "admin/editor.property.title.description": "This is the title of the Block",
+  "admin/editor.property.background-color.description": "This is the background color of the Block"
+}
